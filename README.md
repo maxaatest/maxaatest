@@ -12,14 +12,13 @@
 
 <br/>
 
-<!-- About Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🧑‍� About Me
+### 🧑‍💻 About Me
 
 ```javascript
 const maxaa = {
@@ -50,7 +49,6 @@ const maxaa = {
 
 <br/>
 
-<!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
@@ -62,42 +60,36 @@ const maxaa = {
 
 <br/>
 
-<!-- Stats -->
-<h2 align="center">� GitHub Analytics</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maxaatest&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=maxaatest&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=maxaatest&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxaatest&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&count_private=true" width="49%" alt="Stats"/>
+  <img src="https://streak-stats.demolab.com?user=maxaatest&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=FFFFFF&dates=888888" width="49%" alt="Streak"/>
 </p>
 
 <br/>
 
-<!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/maxaatest/ironstack-go">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxaatest&repo=ironstack-go&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxaatest&repo=ironstack-go&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" width="49%"/>
   </a>
   <a href="https://github.com/maxaatest/ironstack">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxaatest&repo=ironstack&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxaatest&repo=ironstack&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" width="49%"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Snake Animation -->
+<h2 align="center">🏆 Achievements</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maxaatest&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </p>
 
 <br/>
 
-<!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <p align="center">
